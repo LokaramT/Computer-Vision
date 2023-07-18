@@ -1,0 +1,1 @@
+Using pretrained YOLO model, a custom dataset with 40 images were trained to predict drowsiness. Even though the dataset was smaller, good performance was achieved with more than 80 percent of confidence in fairly lighted conditions.
